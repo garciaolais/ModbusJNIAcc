@@ -1,0 +1,4 @@
+See file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/compileArmeabiDebugAllModbus-jniSharedLibraryModbus-jniMainC/output.txt for all output for compileArmeabiDebugAllModbus-jniSharedLibraryModbus-jniMainC.
+compiling modbus-jni.c successful.
+
+Finished compileArmeabiDebugAllModbus-jniSharedLibraryModbus-jniMainC, see full log file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/compileArmeabiDebugAllModbus-jniSharedLibraryModbus-jniMainC/output.txt.

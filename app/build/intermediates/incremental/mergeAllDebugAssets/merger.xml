@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/olais/Projects/ModbusJNIAcc/app/src/main/assets"/></dataSet><dataSet config="all"><source path="/home/olais/Projects/ModbusJNIAcc/app/src/all/assets"/></dataSet><dataSet config="debug"><source path="/home/olais/Projects/ModbusJNIAcc/app/src/debug/assets"/></dataSet><dataSet config="allDebug"><source path="/home/olais/Projects/ModbusJNIAcc/app/src/allDebug/assets"/></dataSet></merger>

@@ -1,0 +1,2 @@
+set solib-search-path /home/olais/Projects/ModbusJNIAcc/app/build/intermediates/binaries/debug/all/lib/armeabi-v7a
+directory /root/Android/Sdk/ndk-bundle/platforms/android-21/arch-arm/usr/include /root/Android/Sdk/ndk-bundle/sources/cxx-stl/system/include /home/olais/Projects/ModbusJNIAcc/app/src/modbus-jni/cpp /home/olais/Projects/ModbusJNIAcc/app/src/all/jni /home/olais/Projects/ModbusJNIAcc/app/src/allDebug/jni /home/olais/Projects/ModbusJNIAcc/app/src/debug/jni /home/olais/Projects/ModbusJNIAcc/app/src/main/jni /home/olais/Projects/ModbusJNIAcc/app/src/modbus-jni/c

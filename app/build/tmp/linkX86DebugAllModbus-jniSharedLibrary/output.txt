@@ -1,0 +1,4 @@
+See file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/linkX86DebugAllModbus-jniSharedLibrary/output.txt for all output for linkX86DebugAllModbus-jniSharedLibrary.
+linking libmodbus-jni.so successful.
+
+Finished linkX86DebugAllModbus-jniSharedLibrary, see full log file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/linkX86DebugAllModbus-jniSharedLibrary/output.txt.

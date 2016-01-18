@@ -1,0 +1,4 @@
+See file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/compileMips64DebugAllModbus-jniSharedLibraryModbus-jniMainC/output.txt for all output for compileMips64DebugAllModbus-jniSharedLibraryModbus-jniMainC.
+compiling modbus-jni.c successful.
+
+Finished compileMips64DebugAllModbus-jniSharedLibraryModbus-jniMainC, see full log file:///home/olais/Projects/ModbusJNIAcc/app/build/tmp/compileMips64DebugAllModbus-jniSharedLibraryModbus-jniMainC/output.txt.
