@@ -21,12 +21,6 @@
 #include <android/log.h>
 #include <sys/endian.h>
 
-/* This is a trivial JNI fireraven where we use a native method
- * to return a new VM String. See the corresponding Java source
- * file located at:
- *
- *   apps/samples/hello-jni/project/src/com/fireraven/libmodbus/main.java
- */
 void
 Java_com_fireraven_libmodbus_main_foo( JNIEnv* env,
                                        jobject thiz )
