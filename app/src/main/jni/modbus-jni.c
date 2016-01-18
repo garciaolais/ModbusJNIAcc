@@ -85,7 +85,6 @@ Java_com_fireraven_libmodbus_main_modbusSendSensor(JNIEnv* env,
     }
 
     free(tab_rp_registers);
-    tab_rp_registers = NULL;
     return 0;
 }
 
