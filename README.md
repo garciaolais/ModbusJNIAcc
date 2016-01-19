@@ -8,4 +8,8 @@ Screenshots
 ![screenshot](screenshot.png)
 
 
+LibModbus
 
+ibmodbus is a free software library to send/receive data with a device which respects the Modbus protocol. This library can use a serial port or an Ethernet connection.
+
+https://github.com/stephane/libmodbus
