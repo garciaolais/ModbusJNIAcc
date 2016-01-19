@@ -16,22 +16,13 @@
  */
 #include <string.h>
 #include <jni.h>
-#include "lib/src/modbus.h"
 #include <errno.h>
 #include <android/log.h>
 #include <sys/endian.h>
-
-void
-Java_com_fireraven_libmodbus_main_foo( JNIEnv* env,
-                                       jobject thiz )
-{
-
-}
-
+#include "lib/src/modbus.h"
 
 void modbus_set_float_array(int offset, uint16_t *arr,float f);
 void modbus_set_float_badc(float f, uint16_t *dest);
-
 
 modbus_t *ctx;
 

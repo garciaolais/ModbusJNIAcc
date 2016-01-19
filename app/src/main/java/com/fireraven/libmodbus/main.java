@@ -62,7 +62,6 @@ public class main extends Activity implements SensorEventListener
         tvZ = (TextView) findViewById(R.id.tvZ);
         btnDisconnect.setEnabled(false);
         handler = new Handler();
-
     }
 
     public void Connect(View view) {
@@ -81,7 +80,6 @@ public class main extends Activity implements SensorEventListener
             btnConnect.setEnabled(false);
             btnConnect.setText("Connected");
         }
-
     }
 
     public void Disconnect(View view) {
@@ -115,7 +113,6 @@ public class main extends Activity implements SensorEventListener
         axisX = event.values[0];
         axisY = event.values[1];
         axisZ = event.values[2];
-
     }
 
     @Override
