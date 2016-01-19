@@ -118,7 +118,6 @@ public class main extends Activity implements SensorEventListener
 
     @Override
     public void onAccuracyChanged(Sensor sensor, int accuracy) {
-
     }
 
     public void error(String msg){
