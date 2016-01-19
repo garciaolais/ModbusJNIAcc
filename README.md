@@ -6,6 +6,7 @@ This example get accelerometer readings and sends them through Modbus/TCP to a M
 Screenshots
 -----------
 ![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 
 LibModbus
